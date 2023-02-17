@@ -6,6 +6,9 @@
 #include <string>
 #include <ctime>
 #include "armadura.h"
+#include "arma.h"
+#include "personaje.h"
+#include <vector>
 using namespace std;
 int main()
 {

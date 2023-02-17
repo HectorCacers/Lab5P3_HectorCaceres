@@ -3,6 +3,8 @@
 #include <string>
 #include <ctime>
 #include <vector>
+#include "arma.h"
+#include "armadura.h"
 using namespace std;
 class personaje
 {

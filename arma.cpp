@@ -3,6 +3,13 @@
 #include <string>
 #include <ctime>
 #include <vector>
+arma::arma() {
+    this->nombre = "";
+    this->tipo = "";
+    this->ataque = 0;
+}
+
+
 arma::arma(string nombre, string tipo) {
     this->nombre = nombre;
     this->tipo = tipo;
