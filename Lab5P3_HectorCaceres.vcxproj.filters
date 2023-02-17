@@ -21,9 +21,21 @@
     <ClCompile Include="armadura.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="arma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="personaje.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="armadura.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="arma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="personaje.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

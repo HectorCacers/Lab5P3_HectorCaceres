@@ -127,11 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="arma.cpp" />
     <ClCompile Include="armadura.cpp" />
     <ClCompile Include="Lab5P3_HectorCaceres.cpp" />
+    <ClCompile Include="personaje.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="arma.h" />
     <ClInclude Include="armadura.h" />
+    <ClInclude Include="personaje.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

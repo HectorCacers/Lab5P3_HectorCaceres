@@ -1,7 +1,7 @@
 #include "armadura.h"
 using namespace std;
 // Constructor de la clase
-armadura::armadura(std::string material, std::string pieza) {
+armadura::armadura(string material, string pieza) {
 	this->material = material;
 	this->pieza = pieza;
 	// Generar puntos de vida aleatorios entre 1 y 20
@@ -10,12 +10,12 @@ armadura::armadura(std::string material, std::string pieza) {
 }
 
 // Método para obtener el material de la armadura
-std::string armadura::obtener_material() {
+string armadura::obtener_material() {
 	return material;
 }
 
 // Método para obtener la pieza de la armadura
-std::string armadura::obtener_pieza() {
+string armadura::obtener_pieza() {
 	return pieza;
 }
 

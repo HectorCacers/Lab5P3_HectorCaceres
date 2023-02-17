@@ -1,8 +1,8 @@
 #pragma once
-#include <iostream>
+
 #include <string>
 #include <ctime>
-
+using namespace std;
 class armadura
 {
 private:
@@ -11,9 +11,9 @@ private:
     int vida;
 
 public:
-     armadura(std::string material, std::string pieza);
-    std::string obtener_material();
-    std::string obtener_pieza();
+    armadura(std::string material, std::string pieza);
+    string obtener_material();
+    string obtener_pieza();
     int obtener_vida();
 };
 
