@@ -18,5 +18,13 @@
     <ClCompile Include="Lab5P3_HectorCaceres.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="armadura.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="armadura.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
