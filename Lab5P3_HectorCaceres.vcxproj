@@ -131,11 +131,13 @@
     <ClCompile Include="armadura.cpp" />
     <ClCompile Include="Lab5P3_HectorCaceres.cpp" />
     <ClCompile Include="personaje.cpp" />
+    <ClCompile Include="Pregunta.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="arma.h" />
     <ClInclude Include="armadura.h" />
     <ClInclude Include="personaje.h" />
+    <ClInclude Include="Pregunta.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

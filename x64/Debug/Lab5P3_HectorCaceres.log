@@ -1,2 +1,20 @@
-﻿  Lab5P3_HectorCaceres.cpp
-  Lab5P3_HectorCaceres.vcxproj -> C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\x64\Debug\Lab5P3_HectorCaceres.exe
+﻿  arma.cpp
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\arma.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  armadura.cpp
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\armadura.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab5P3_HectorCaceres.cpp
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres.cpp(160,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres.cpp(162,3): error C2065: 'BancoDePreguntas': undeclared identifier
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres.cpp(162,20): error C2146: syntax error: missing ';' before identifier 'banco'
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres.cpp(162,20): error C3861: 'banco': identifier not found
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres.cpp(163,3): error C2065: 'Examen': undeclared identifier
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres.cpp(163,10): error C2146: syntax error: missing ';' before identifier 'examen'
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres.cpp(163,10): error C2065: 'examen': undeclared identifier
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres.cpp(165,3): error C2065: 'examen': undeclared identifier
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres.cpp(166,3): error C2065: 'examen': undeclared identifier
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres.cpp(166,25): error C2065: 'banco': undeclared identifier
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres.cpp(167,3): error C2065: 'examen': undeclared identifier
+C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres.cpp(226,3): error C3861: 'random_shuffle': identifier not found
+  personaje.cpp
+  Pregunta.cpp
+  Generating Code...
