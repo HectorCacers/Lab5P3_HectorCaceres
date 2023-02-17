@@ -1,7 +1,2 @@
-﻿  arma.cpp
-C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\arma.cpp(16,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\arma.cpp(32,1): error C2059: syntax error: '}'
-C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\Lab5P3_HectorCaceres\arma.cpp(32,1): error C2143: syntax error: missing ';' before '}'
-  Lab5P3_HectorCaceres.cpp
-  personaje.cpp
-  Generating Code...
+﻿  Lab5P3_HectorCaceres.cpp
+  Lab5P3_HectorCaceres.vcxproj -> C:\Users\hecto\Desktop\entregar\Lab5P3_HectorCaceres\x64\Debug\Lab5P3_HectorCaceres.exe

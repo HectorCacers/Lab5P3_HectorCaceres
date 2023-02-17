@@ -29,4 +29,3 @@ int arma::obtener_ataque() {
     return ataque;
 }
 
-};

@@ -20,5 +20,7 @@ public:
     personaje(string nombre, arma arma_personaje, vector<armadura> armaduras_personaje);
 
     void mostrar_estadisticas();
+    void crear_personaje();
+       
 };
 
